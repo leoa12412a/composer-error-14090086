@@ -3,7 +3,7 @@
 解決辦法:
 1.yum install -y ca-certificates -y
 
-接著又有新問題
+接著又有新問題<br/>
 ![擷取](https://user-images.githubusercontent.com/22145676/170924248-12656ce6-c996-42e8-86d7-1ccb2eb7babe.PNG)<br/>
 解決辦法:
 1.composer self-update
